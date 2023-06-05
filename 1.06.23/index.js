@@ -17,13 +17,13 @@
 const takenemail=document.getElementById("email");
 const takenpassword=document.getElementById("password");
 function submitData(){
-    if(takenemail.valeu !== "" && takenpassword.value !== ""){
+    if(takenemail.value !== "" && takenpassword.value !== ""){
         const obj ={
             id:Date.now(),
             email:takenemail.value,
             password:takenpassword.value,
         };
-        fetch("http://localhost:8080/mydata",{
+    fetch("http://localhost:3000/mydata",{
     method:"POST",
     headers :{
         "Content-Type": "application/json"
@@ -40,5 +40,5 @@ function submitData(){
 else{
     alert("Fill in all the fields");
 }
-window.location.href ="./login.html";
+window.location.href = "./login.html";
 }

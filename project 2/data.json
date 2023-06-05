@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "id": 1685878483628,
+      "email": "ece.20becd70@silicon.ac.in",
+      "password": "jagan"
+    },
+    {
+      "id": 1685894945969,
+      "email": "sarun@gmail.com",
+      "password": "sit"
+    },
+    {
+      "id": 1685931211678,
+      "email": "sekharsumansaho@gmail.com",
+      "password": "90"
+    },
+    {
+      "id": 1685937723358,
+      "email": "sekharsumansaho@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": 1685946400551,
+      "email": "sekharsumansaho@gmail.com",
+      "password": "16"
+    }
+  ],
+  "ticket-info": [
+    {
+      "id": 1685888100935,
+      "name": "Jagan",
+      "email": "jagankumar2024jobs@gmail.com",
+      "age": "12",
+      "boarding": "london",
+      "destination": "BBsr",
+      "selectedFlight": "Vistar"
+    },
+    {
+      "id": 1685895018955,
+      "name": "Jagan Kumar Patra",
+      "email": "jagankumar2024jobs@gmail.com",
+      "age": "21",
+      "boarding": "Bhubaneswar",
+      "destination": "BangKok",
+      "selectedFlight": "Vistar"
+    },
+    {
+      "id": 1685895018956,
+      "name": "Jagan Kumar Patra",
+      "email": "jagankumar2024jobs@gmail.com",
+      "age": "21",
+      "boarding": "Bhubaneswar",
+      "destination": "BangKok",
+      "selectedFlight": "Vistar"
+    },
+    {
+      "id": 1685931358316,
+      "name": "sekhar",
+      "email": "sekharsumansaho@gmail.com",
+      "age": "23",
+      "boarding": "bhubaneswar",
+      "destination": "new delhi",
+      "selectedFlight": "Asia"
+    },
+    {
+      "id": 1685931358317,
+      "name": "sekhar",
+      "email": "sekharsumansaho@gmail.com",
+      "age": "23",
+      "boarding": "bhubaneswar",
+      "destination": "new delhi",
+      "selectedFlight": "Asia"
+    },
+    {
+      "id": 1685937811182,
+      "name": "sekhar",
+      "email": "sekharsumansaho@gmail.com",
+      "age": "12",
+      "boarding": "bhubaneswar",
+      "destination": "new delhi",
+      "selectedFlight": "Vistar"
+    },
+    {
+      "id": 1685937811183,
+      "name": "sekhar",
+      "email": "sekharsumansaho@gmail.com",
+      "age": "12",
+      "boarding": "bhubaneswar",
+      "destination": "new delhi",
+      "selectedFlight": "Vistar"
+    }
+  ]
+}

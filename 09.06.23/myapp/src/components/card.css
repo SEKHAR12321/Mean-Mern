@@ -1,0 +1,9 @@
+.box{
+    border: 2px solid rgb(246, 242, 242);
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.656);
+    color: wheat;
+  }
